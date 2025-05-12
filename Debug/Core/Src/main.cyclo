@@ -1,0 +1,9 @@
+../Core/Src/main.c:73:5:main	1
+../Core/Src/main.c:118:6:SystemClock_Config	3
+../Core/Src/main.c:159:13:MX_USART2_UART_Init	5
+../Core/Src/main.c:207:13:MX_GPIO_Init	1
+../Core/Src/main.c:235:6:HAL_UART_RxCpltCallback	4
+../Core/Src/main.c:251:6:ParseCommand	5
+../Core/Src/main.c:277:6:ClearBuffer	1
+../Core/Src/main.c:283:6:SendReply	1
+../Core/Src/main.c:293:6:Error_Handler	1
